@@ -224,7 +224,7 @@
   description:
   authors: Dongjun Chung, Hyonho Chun, Sunduz Keles
   link:
-    display:  R package, version 2, (2012)
+    display: R package, version 2, (2012)
   highlight: 0
 
 
@@ -271,16 +271,7 @@
   authors: Hyonho Chun, Sündüz Keleş
   link:
     url: https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9868.2009.00723.x
-    display: Journal of the Royal Statistical Society: Series B (Statistical Methodology) 72, 1 (2010)
-  highlight: 1
-
-- title: "Sparse partial least squares regression for simultaneous dimension reduction and variable selection"
-  image: TBG_ARPES.png
-  description:
-  authors: Hyonho Chun, Sündüz Keleş
-  link:
-    url: https://rss.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9868.2009.00723.x
-    display: Journal of the Royal Statistical Society: Series B (Statistical Methodology) 72, 1 (2010)
+    display: Journal of the Royal Statistical Society B (Statistical Methodology) 72, 1 (2010)
   highlight: 1
 
 - title: "Genome-wide association studies using single-nucleotide polymorphisms versus haplotypes: an empirical comparison with data from the North American Rheumatoid Arthritis Consortium"
