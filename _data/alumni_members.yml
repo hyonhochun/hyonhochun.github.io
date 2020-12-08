@@ -8,33 +8,3 @@
   education2:
   education3:
   education4:
-
-- name: Dongjun Jee
-  photo: irene.jpg
-  info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: jdj9601@kaist.ac.kr
-  number_educ: 3
-  education1: B.S. KAIST, Korea
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
-
-- name: Jaehyong Hong
-  photo: Doohee2.jpg
-  info: PhD student
-  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
-  email: jhhong93@kaist.ac.kr
-  number_educ: 2
-  education1: B.S. Seoul University, Korea
-  education2: PhD. KAIST, Korea
-
-- name: Jinhwan Suk
-  photo: Maarten.png
-  info: M.S. student
-  email: mjinhwan@kaist.ac.kr
-  duration: In the Allan Lab December 2015 to February 2020, now design engineer at ASML
-  number_educ: 1
-  education1: B.S. Sogang University, Korea
-  education2: M.S. KAIST, Korea
-  education3:
-  education4:
