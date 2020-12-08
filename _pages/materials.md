@@ -31,7 +31,7 @@ permalink: /materials/
 You can find recent articles about statistics, machine learning and deep learning.
   
 [Oct. 2nd week, 2020](article_10-2_20)  
-[Oct. 1st week, 2020](article_10-1_20)
-[Sep. 3rd week, 2020](article_9-3_20) 
+[Oct. 1st week, 2020](article_10-1_20)  
+[Sep. 3rd week, 2020](article_9-3_20)  
 [Sep. 2nd week, 2020](article_9-2_20)  
 [Sep. 1st week, 2020](article_9-1_20)   
