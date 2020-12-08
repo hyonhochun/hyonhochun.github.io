@@ -24,3 +24,10 @@ permalink: /materials/
 - Reference : Categorical Data Analysis, Alan Agresti
 - Since 2020.05 
 - [GitHub](https://chunhyonho.github.io/Group-study/CDA)
+
+---
+
+## Recent Articles
+You can find recent articles about statistics, machine learning and deep learning.
+
+[sep. 2020](article_9_20)
