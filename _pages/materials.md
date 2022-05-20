@@ -6,8 +6,6 @@ permalink: /materials/
 ---
 
 ## Journal Club
-- Participants : Dongjun Jee, Jaehyoung Hong, Jinhwan Suk
-- Since 2020.09 ~ 
 - [Link](https://chunhyonho.github.io/Group-study/Journal_club)
 
 
