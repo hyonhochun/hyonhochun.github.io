@@ -1,6 +1,24 @@
+-title: "Deep nonnegative matrix factorization using a variational auto encoder with application to single-cell RNA sequencing data"
+authors:D.J. Jee, Y. Kong, H. Chun
+description:
+link:
+  url:https://ieeexplore.ieee.org/abstract/document/9769995
+  disply:  IEEE/ACM Transactions on Computational Biology and Bioinformatics (2022)
+  highlight: 0
+  news2:
+  
+-title: "A zero-inflated nonnegative matrix factorization for the deconvolution of mixed signals from biological data"
+ authors:Y. Kong, A.J. Kozik, C. H. Nakatsu, Y. L. Jones-Hall, H. Chun
+ description:
+ link:
+    url:https://www.degruyter.com/document/doi/10.1515/ijb-2020-0039/html
+    display: International Journal of Biostatistics (2021)
+ highlight: 0
+ news2:
+
 - title: "A RUNX2 stabilization pathway mediates physiologic and pathologic bone formation"
   image: TBG_ARPES.png
-  authors: Jung-Min Kim, Yeon-Suk Yang, Kwang Hwan Park, Xianpeng Ge, Ren Xu, Na Li, Minkyung Song, Hyunho Chun, Seoyeon Bok, Julia F Charles, Odile Filhol-Cochet, Brigitte Boldyreff, Teresa Dinter, B Yu Paul, Ning Kon, Wei Gu, Takeshi Takarada, Matthew B Greenblatt, Jae-Hyuck Shim
+  authors: Jung-Min Kim, Yeon-Suk Yang, Kwang Hwan Park, Xianpeng Ge, Ren Xu, Na Li, Minkyung Song, Hyonho Chun, Seoyeon Bok, Julia F Charles, Odile Filhol-Cochet, Brigitte Boldyreff, Teresa Dinter, B Yu Paul, Ning Kon, Wei Gu, Takeshi Takarada, Matthew B Greenblatt, Jae-Hyuck Shim
   description:
   link:
     url: https://www.nature.com/articles/s41467-020-16038-6
@@ -10,7 +28,6 @@
   
   
 - title: "Proteomic and metabolomic profiling reveals the involvement of apoptosis in meat quality characteristics of ovine M. longissimus from different callipyge genotypes"
-  image: TBG_ARPES.png
   authors: Danyi Ma, Qianqian Yu, Vicki E Hendrick, Bruce R Cooper, Tiago Sobreira, Ji-Hwan Oh, Hyonho Chun, Yuan H Brad Kim
   description:
   link:
@@ -21,7 +38,6 @@
   
   
 - title: "FIREVAT: finding reliable variants without artifacts in human cancer samples using etiologically relevant mutational signatures"
-  image: TBG_ARPES.png
   authors: Hyunbin Kim, Andy Jinseok Lee, Jongkeun Lee, Hyonho Chun, Young Seok Ju, Dongwan Hong
   description:
   link:
@@ -32,7 +48,6 @@
   
   
 - title: "Comparison of the fecal, cecal, and mucus microbiome in male and female mice after TNBS-induced colitis"
-  image: TBG_ARPES.png
   authors: Ariangela J Kozik, Cindy H Nakatsu, Hyonho Chun, Yava L Jones-Hall
   description:
   link:
@@ -43,7 +58,6 @@
   
   
 - title: "Learning dispatching rules using random forest in flexible job shop scheduling problems"
-  image: TBG_ARPES.png
   authors: Sungbum Jun, Seokcheon Lee, Hyonho Chun
   description:
   link:
@@ -55,7 +69,6 @@
 
 
 - title: "IL1R1 is required for celastrol’s leptin-sensitization and antiobesity effects"
-  image: TBG_ARPES.png
   authors: Xudong Feng, Dongxian Guan, Thomas Auen, Jae Won Choi, Mario Andres Salazar Hernandez, Jaemin Lee, Hyonho Chun, Farhana Faruk, Esther Kaplun, Zachary Herbert, Kyle D Copps, Umut Ozcan
   description:
   link:
@@ -65,7 +78,6 @@
   news2:
   
 - title: "A Nonnegative Robust Linear Model for Deconvolution of Proportions"
-  image: TBG_ARPES.png
   authors: Hyonho Chun, Hyuna Yang
   description:
   link:
@@ -75,7 +87,6 @@
   news2:
   
 - title: "Spatial autocorrelation in soil compaction and its impact on earthwork acceptance testing"
-  image: TBG_ARPES.png
   authors: Jiannan Cai, Qingyi Gao, Hyonho Chun, Hubo Cai, Tommy Nantung
   description:
   link:
@@ -86,7 +97,6 @@
 
 
 - title: "Kernel partial correlation: a novel approach to capturing conditional independence in graphical models for noisy data"
-  image: TBG_ARPES.png
   authors: Jihwan Oh, Faye Zheng, RW Doerge, Hyonho Chun
   description:
   link:
@@ -96,7 +106,6 @@
   news2:
   
 - title: "Mutalisk: a web-based somatic MUTation AnaLyIS toolKit for genomic, transcriptional and epigenomic signatures"
-  image: TBG_ARPES.png
   authors: Jongkeun Lee, Andy Jinseok Lee, June-Koo Lee, Jongkeun Park, Youngoh Kwon, Seongyeol Park, Hyonho Chun, Young Seok Ju, Dongwan Hong
   description:
   link:
@@ -106,7 +115,6 @@
   news2:
   
 - title: "Robust precision matrix estimation via weighted median regression with regularization"
-  image: TBG_ARPES.png
   authors: Hyonho Chun, Myung Hee Lee, Sung‐Ho Kim, Jihwan Oh
   description:
   link:
@@ -116,7 +124,6 @@
   news2:
   
 - title: "Optimal Sampling Strategy for Acceptance Decision in Highway Construction: a Cost–Benefit Analysis Approach"
-  image: TBG_ARPES.png
   authors: Jiannan Cai, Shuai Li, Qingyi Gao, Hyonho Chun, Tommy Nantung, Hubo Cai
   description:
   link:
@@ -126,7 +133,6 @@
   news2:
   
 - title: "Age, sex, and TNF associated differences in the gut microbiota of mice and their impact on acute TNBS colitis"
-  image: TBG_ARPES.png
   authors: Ariangela J Kozik, Cindy H Nakatsu, Hyonho Chun, Yava L Jones-Hall
   description:
   link:
@@ -136,7 +142,6 @@
   news2:
   
 - title: "Metabolomics profiling to determine the effect of postmortem aging on color and lipid oxidative stabilities of different bovine muscles"
-  image: TBG_ARPES.png
   authors: Danyi Ma, Yuan H Brad Kim, Bruce Cooper, Ji-Hwan Oh, Hyonho Chun, Ju-Hui Choe, Jon P Schoonmaker, Kolapo Ajuwon, Byungrok Min
   description:
   link:
@@ -147,7 +152,6 @@
 
 
 - title: "Using pre-assessment and in-class questions to change student understanding of molecular movements"
-  image: TBG_ARPES.png
   authors: J Shi, Jennifer K Knight, Hyonho Chun, Nancy A Guild, Jennifer M Martin
   description:
   link:
@@ -158,7 +162,6 @@
   
 
 - title: "Graphical models via joint quantile regression with component selection"
-  image: TBG_ARPES.png
   authors: Hyonho Chun, Myung Hee Lee, James C Fleet, Ji Hwan Oh
   description:
   link:
@@ -169,7 +172,6 @@
   
   
 - title: "Gene regulation network inference with joint sparse Gaussian graphical models"
-  image: TBG_ARPES.png
   authors: Hyonho Chun, Xianghua Zhang, Hongyu Zhao
   description:
   link:
@@ -179,7 +181,6 @@
   news2:
   
 - title: "Effective simultaneous confidence bands for repeated measurements in linear mixed-effect models"
-  image: TBG_ARPES.png
   description:
   authors: Jungwon Mun, Hyonho Chun
   link:
@@ -188,7 +189,6 @@
   highlight: 0
 
 - title: "On an additive semigraphoid model for statistical networks with application to pathway analysis"
-  image: TBG_ARPES.png
   description:
   authors: Bing Li, Hyonho Chun, Hongyu Zhao
   link:
@@ -198,7 +198,6 @@
   
   
 - title: "Joint conditional Gaussian graphical models with multiple sources of genomic data"
-  image: TBG_ARPES.png
   description:
   authors: Hyonho Chun, Min Chen, Bing Li, Hongyu Zhao
   link:
@@ -209,7 +208,6 @@
 
 
 - title: "Sparse estimation of conditional graphical models with application to gene networks"
-  image: TBG_ARPES.png
   description:
   authors: Bing Li, Hyonho Chun, Hongyu Zhao
   link:
@@ -220,7 +218,6 @@
 
 
 - title: "Spls: sparse partial least squares (SPLS) regression and classification"
-  image: TBG_ARPES.png
   description:
   authors: Dongjun Chung, Hyonho Chun, Sunduz Keles
   link:
@@ -231,7 +228,6 @@
 
 
 - title: "Identification of association between disease and multiple markers via sparse partial least‐squares regression"
-  image: TBG_ARPES.png
   description:
   authors: Hyonho Chun, David H Ballard, Judy Cho, Hongyu Zhao
   link:
@@ -243,7 +239,6 @@
 
 
 - title: "Reverse Engineering of Gene Regulation Networks with an Application to the DREAM4 in silico Network Challenge"
-  image: TBG_ARPES.png
   description:
   authors: Hyonho Chun, Jia Kang, Xianghua Zhang, Minghua Deng, Haisu Ma, Hongyu Zhao
   link:
@@ -255,7 +250,6 @@
 
 
 - title: "Visualizing abnormal climate changes in Central America from 1995 to 2000"
-  image: TBG_ARPES.png
   description:
   authors: Sang-Hoon Cho, Hyonho Chun
   link:
@@ -266,7 +260,6 @@
 
 
 - title: "Sparse partial least squares regression for simultaneous dimension reduction and variable selection"
-  image: TBG_ARPES.png
   description:
   authors: Hyonho Chun, Sündüz Keleş
   link:
@@ -275,7 +268,6 @@
   highlight: 1
 
 - title: "Genome-wide association studies using single-nucleotide polymorphisms versus haplotypes: an empirical comparison with data from the North American Rheumatoid Arthritis Consortium"
-  image: TBG_ARPES.png
   description:
   authors: Heejung Shim, Hyonho Chun, Corinne D Engelman, Bret A Payseur
   link:
@@ -284,7 +276,6 @@
   highlight: 0
 
 - title: "Expression quantitative trait loci mapping with multivariate sparse partial least squares regression"
-  image: TBG_ARPES.png
   description:
   authors: Hyonho Chun, Sündüz Keleş
   link:
@@ -295,7 +286,6 @@
 
 
 - title: "Comments on: Augmenting the bootstrap to analyze high dimensional genomic data"
-  image: TBG_ARPES.png
   description:
   authors: Sündüz Keleş, Hyonho Chun
   link:
