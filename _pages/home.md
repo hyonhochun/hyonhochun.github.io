@@ -8,7 +8,7 @@ permalink: /
 
 Our research interests are in developing statistical methods for modern biological and genomic data.  Ongoing developments in high-throughput technology bring interesting biological data (e.g. single nucleotide polymorphism (SNP) and next generation sequencing (NGS) data), which are mainly characterized by high dimensionality combined with low sample size and teh presence of high correlations among variables.  
 
-We are physically located at the [KAIST](https://mathsci.kaist.ac.kr/home/en/). 
+We are located at the [KAIST](https://mathsci.kaist.ac.kr/home/en/). 
 
 
 
